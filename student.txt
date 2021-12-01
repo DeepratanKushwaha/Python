@@ -1,0 +1,4 @@
+name,batch,Engilsh,Hindi,Science
+Arshika,10A,98,67,86
+Deep,10B,90,67,66
+Gaurav,10c,95,70,56
